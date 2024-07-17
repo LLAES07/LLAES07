@@ -10,7 +10,8 @@
 </p>
 
 <!-- Short Bio -->
-<p align="center">Welcome to my profile! </br> I'm an <b>AI enthusiast</b> currently building my skills in <b>Machine Learning</b> and <b>Deep Learning.</b> In addition to AI, I'm also diving into <b>Data Structures and Algorithms</b> to strengthen my foundational knowledge.</p>
+<p align="center">I am a professional with a background in <b>geology</b>, who, due to life's circumstances, acquired various <b>IT skills</b> initially through self-teaching. My ability to <b>adapt</b> and <b>learn</b> allowed me to be promoted <b>three times</b>, even leading to the creation of a specific position due to my advancements. Recently, I completed a <b>bootcamp</b> and obtained the title of <b>Data Scientist and Analyst</b>, demonstrating my ability to <b>reinvent myself</b> and adapt to the challenges that arise.</p>
+
 
 <!-- Tech Stack -->
 <h2 align="center">Tech Stack</h2>
