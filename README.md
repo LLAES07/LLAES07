@@ -6,7 +6,7 @@
 <p align="left">
   <a href=""><img src="https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white"></a>
   <a href="https://github.com/LLAES07"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"></a>
-  <a href="www.linkedin.com/in/kevin-llanos-espinoza-040a73319"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kevin-llanos-espinoza-040a73319"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 </p>
 
 <!-- Short Bio -->
