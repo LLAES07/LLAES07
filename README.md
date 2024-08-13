@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://github.com/LLAES07/Coffee_sales_Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Coffee_sales_Project&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Coffee_sales_Project"></a>
   <a href="https://github.com/LLAES07/house_data_prediction"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=house_data_prediction&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Coffee_sales_Project"></a>
-<a href="https://github.com/LLAES07/Penguins_clusters"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=house_data_prediction&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Penguins_clusters"></a>  
+<a href="https://github.com/LLAES07/Penguins_clusters"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Penguins_clusters&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Penguins_clusters"></a>  
 </p>
 
 # 💻 Tech Stack:
