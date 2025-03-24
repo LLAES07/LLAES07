@@ -35,6 +35,8 @@
 <!-- Projects Section -->
 <h2 align="center" style="border-bottom: 2px solid black;">Top Projects</h2>
 <p align="center">
+  <a href="https://github.com/LLAES07/SQL_DESAFIO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=SQL_DESAFIO&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="NLP_MULTI_CLASIFICACION"></a>
+<p align="center">
   <a href="https://github.com/LLAES07/NLP_MULTI_CLASIFICACION"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=NLP_MULTI_CLASIFICACION&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="NLP_MULTI_CLASIFICACION"></a>
 <p align="center">
   <a href="https://github.com/LLAES07/ann_clasfi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=ann_clasfi&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="ann_clasfi"></a>
