@@ -32,17 +32,17 @@
 </p>
 <br/><br/><br/>
 
-<!-- Projects Section -->
+<!-- Projects Section with Flexbox -->
 <h2 align="center" style="border-bottom: 2px solid black;">Top Projects</h2>
-<p align="center">
-  <a href="https://github.com/LLAES07/SQL_DESAFIO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=SQL_DESAFIO&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="NLP_MULTI_CLASIFICACION"></a>
-<p align="center">
-  <a href="https://github.com/LLAES07/NLP_MULTI_CLASIFICACION"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=NLP_MULTI_CLASIFICACION&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="NLP_MULTI_CLASIFICACION"></a>
-<p align="center">
-  <a href="https://github.com/LLAES07/ann_clasfi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=ann_clasfi&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="ann_clasfi"></a>
-    <a href="https://github.com/LLAES07/project_"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Segmentacion_clientes&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Segmentación de clientes"></a>
-  <a href="https://github.com/LLAES07/Coffee_sales_Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Coffee_sales_Project&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Coffee_sales_Project"></a>
-  <a href="https://github.com/LLAES07/house_data_prediction"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=house_data_prediction&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="house_data_prediction"></a>
-  <a href="https://github.com/LLAES07/Penguins_clusters"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Penguins_clusters&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Penguins_clusters"></a> 
-    <a href="https://github.com/LLAES07/Tableau_visual"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Tableau_visual&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Tableau_visual"></a>  
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github.com/LLAES07/Forecasting-SARIMA"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Forecasting-SARIMA&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Forecasting-SARIMA" style="margin: 10px;"></a>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github.com/LLAES07/SQL_DESAFIO"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=SQL_DESAFIO&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="SQL_DESAFIO" style="margin: 10px;"></a>
+  <a href="https://github.com/LLAES07/NLP_MULTI_CLASIFICACION"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=NLP_MULTI_CLASIFICACION&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="NLP_MULTI_CLASIFICACION" style="margin: 10px;"></a>
+  <a href="https://github.com/LLAES07/ann_clasfi"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=ann_clasfi&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="ann_clasfi" style="margin: 10px;"></a>
+  <a href="https://github.com/LLAES07/Segmentacion_clientes"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Segmentacion_clientes&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Segmentacion_clientes" style="margin: 10px;"></a>
+  <a href="https://github.com/LLAES07/Coffee_sales_Project"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Coffee_sales_Project&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Coffee_sales_Project" style="margin: 10px;"></a>
+  <a href="https://github.com/LLAES07/house_data_prediction"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=house_data_prediction&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="house_data_prediction" style="margin: 10px;"></a>
+  <a href="https://github.com/LLAES07/Penguins_clusters"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Penguins_clusters&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Penguins_clusters" style="margin: 10px;"></a>
+  <a href="https://github.com/LLAES07/Tableau_visual"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Tableau_visual&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Tableau_visual" style="margin: 10px;"></a>
+</div>
