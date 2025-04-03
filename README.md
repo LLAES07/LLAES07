@@ -28,6 +28,9 @@ I am a passionate <strong>Geologist</strong> turned <strong>Data Scientist</stro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40px"/>
   <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40px" alt="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40px" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40px" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40px"/>
