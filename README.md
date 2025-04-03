@@ -46,3 +46,8 @@
   <a href="https://github.com/LLAES07/Penguins_clusters"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Penguins_clusters&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Penguins_clusters" style="margin: 10px;"></a>
   <a href="https://github.com/LLAES07/Tableau_visual"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Tableau_visual&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Tableau_visual" style="margin: 10px;"></a>
 </div>
+<!-- Sección de Actividad Reciente -->
+<h2 align="center" style="border-bottom: 2px solid black; padding-bottom: 5px;">Actividad Reciente</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LLAES07&show_icons=true&theme=dark&hide_border=true&bg_color=0D1017&title_color=E8EDF3&icon_color=E8EDF3" alt="Estadísticas de GitHub" />
+</p>
