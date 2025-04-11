@@ -42,9 +42,13 @@ I am a passionate <strong>Geologist</strong> turned <strong>Data Scientist</stro
 
 ---
 
-### 🚀 Top Projects
+### 🚀 Top Projects 
 
-<p align="center">
+
+<p align="flex">
+    <a href="https://github.com/LLAES07/Powerbi_dashboard">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Powerbi_dashboard&theme=dark" />
+  </a>
   <a href="https://github.com/LLAES07/Forecasting-SARIMA">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Forecasting-SARIMA&theme=dark" />
   </a>
