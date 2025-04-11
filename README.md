@@ -45,7 +45,7 @@ I am a passionate <strong>Geologist</strong> turned <strong>Data Scientist</stro
 ### 🚀 Top Projects 
 
 
-<p align="flex">
+<p align="flex-box">
     <a href="https://github.com/LLAES07/Powerbi_dashboard">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Powerbi_dashboard&theme=dark" />
   </a>
