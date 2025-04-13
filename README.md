@@ -6,7 +6,7 @@
 
 <p align="center">
   <!--<a href="#"><img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio"></a>-->
-  <a href="https://github.com/LLAES07"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/LLAES07"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
   <a href="https://www.linkedin.com/in/kevin-llanos-espinoza-040a73319"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
@@ -26,7 +26,7 @@ I am a passionate <strong>Geologist</strong> turned <strong>Data Scientist</stro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40px"/>
-  <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="40px"/>
+  <img src="https://img.icons8.com/?size=40&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40px" alt="Keras"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40px" alt="PyTorch"/>
@@ -46,7 +46,7 @@ I am a passionate <strong>Geologist</strong> turned <strong>Data Scientist</stro
 
 ### Proyectos
 
-| SQL / Visualizaciones | Clasificación | Regresión / Clustering |
+| Visualizaciones / SQL | Clasificación | Regresión / Clustering |
 |-----------------------|---------------|-----------|
 | [![SQL_DESAFIO](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=SQL_DESAFIO&theme=dark)](https://github.com/LLAES07/SQL_DESAFIO) | [![NLP_MULTI_CLASIFICACION](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=NLP_MULTI_CLASIFICACION&theme=dark)](https://github.com/LLAES07/NLP_MULTI_CLASIFICACION) | [![Forecasting-SARIMA](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Forecasting-SARIMA&theme=dark)](https://github.com/LLAES07/Forecasting-SARIMA) |
 | [![Powerbi_dashboard](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Powerbi_dashboard&theme=dark)](https://github.com/LLAES07/Powerbi_dashboard) | [![ann_clasfi](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=ann_clasfi&theme=dark)](https://github.com/LLAES07/ann_clasfi) | [![house_data_prediction](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=house_data_prediction&theme=dark)](https://github.com/LLAES07/house_data_prediction) |
