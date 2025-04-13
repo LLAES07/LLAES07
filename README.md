@@ -22,7 +22,7 @@ I am a passionate <strong>Geologist</strong> turned <strong>Data Scientist</stro
 
 ### 🔧 Languages & Tools
 
-<p align="center">
+<p align="block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40px"/>
