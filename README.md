@@ -22,7 +22,7 @@ I am a passionate <strong>Geologist</strong> turned <strong>Data Scientist</stro
 
 ### 🔧 Languages & Tools
 
-<p align="block">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40px"/>
@@ -45,35 +45,34 @@ I am a passionate <strong>Geologist</strong> turned <strong>Data Scientist</stro
 ### 🚀 Top Projects 
 
 
-<p align="block">
-    <a href="https://github.com/LLAES07/Powerbi_dashboard">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Powerbi_dashboard&theme=dark" />
-  </a>
-  <a href="https://github.com/LLAES07/Forecasting-SARIMA">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Forecasting-SARIMA&theme=dark" />
-  </a>
-  <a href="https://github.com/LLAES07/NLP_MULTI_CLASIFICACION">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=NLP_MULTI_CLASIFICACION&theme=dark" />
-  </a>
-  <a href="https://github.com/LLAES07/ann_clasfi">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=ann_clasfi&theme=dark" />
-  </a>
-  <a href="https://github.com/LLAES07/Segmentacion_clientes">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Segmentacion_clientes&theme=dark" />
-  </a>
-  <a href="https://github.com/LLAES07/SQL_DESAFIO">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=SQL_DESAFIO&theme=dark" />
-  </a>
-  <a href="https://github.com/LLAES07/Coffee_sales_Project">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Coffee_sales_Project&theme=dark" />
-  </a>
-  <a href="https://github.com/LLAES07/house_data_prediction">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=house_data_prediction&theme=dark" />
-  </a>
-  <a href="https://github.com/LLAES07/Tableau_visual">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Tableau_visual&theme=dark" />
-  </a>
-</p>
+
+  <a href="https://github.com/LLAES07/Powerbi_dashboard">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Powerbi_dashboard&theme=dark" />
+</a>
+<a href="https://github.com/LLAES07/Forecasting-SARIMA">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Forecasting-SARIMA&theme=dark" />
+</a>
+<a href="https://github.com/LLAES07/NLP_MULTI_CLASIFICACION">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=NLP_MULTI_CLASIFICACION&theme=dark" />
+</a>
+<a href="https://github.com/LLAES07/ann_clasfi">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=ann_clasfi&theme=dark" />
+</a>
+<a href="https://github.com/LLAES07/Segmentacion_clientes">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Segmentacion_clientes&theme=dark" />
+</a>
+<a href="https://github.com/LLAES07/SQL_DESAFIO">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=SQL_DESAFIO&theme=dark" />
+</a>
+<a href="https://github.com/LLAES07/Coffee_sales_Project">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Coffee_sales_Project&theme=dark" />
+</a>
+<a href="https://github.com/LLAES07/house_data_prediction">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=house_data_prediction&theme=dark" />
+</a>
+<a href="https://github.com/LLAES07/Tableau_visual">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Tableau_visual&theme=dark" />
+</a>
 
 ---
 
