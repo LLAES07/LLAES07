@@ -44,35 +44,14 @@ I am a passionate <strong>Geologist</strong> turned <strong>Data Scientist</stro
 
 ### 🚀 Top Projects 
 
-<p>
-  <a href="https://github.com/LLAES07/Powerbi_dashboard">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Powerbi_dashboard&theme=dark" alt="Powerbi_dashboard" />
-  </a>
-  <a href="https://github.com/LLAES07/Forecasting-SARIMA">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Forecasting-SARIMA&theme=dark" alt="Forecasting-SARIMA" />
-  </a>
-  <a href="https://github.com/LLAES07/NLP_MULTI_CLASIFICACION">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=NLP_MULTI_CLASIFICACION&theme=dark" alt="NLP_MULTI_CLASIFICACION" />
-  </a>
-  <a href="https://github.com/LLAES07/ann_clasfi">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=ann_clasfi&theme=dark" alt="ann_clasfi" />
-  </a>
-  <a href="https://github.com/LLAES07/Segmentacion_clientes">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Segmentacion_clientes&theme=dark" alt="Segmentacion_clientes" />
-  </a>
-  <a href="https://github.com/LLAES07/SQL_DESAFIO">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=SQL_DESAFIO&theme=dark" alt="SQL_DESAFIO" />
-  </a>
-  <a href="https://github.com/LLAES07/Coffee_sales_Project">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Coffee_sales_Project&theme=dark" alt="Coffee_sales_Project" />
-  </a>
-  <a href="https://github.com/LLAES07/house_data_prediction">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=house_data_prediction&theme=dark" alt="house_data_prediction" />
-  </a>
-  <a href="https://github.com/LLAES07/Tableau_visual">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Tableau_visual&theme=dark" alt="Tableau_visual" />
-  </a>
-</p>
+### Proyectos
+
+| SQL / Visualizaciones | Clasificación | Regresión / Clustering |
+|-----------------------|---------------|-----------|
+| [![SQL_DESAFIO](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=SQL_DESAFIO&theme=dark)](https://github.com/LLAES07/SQL_DESAFIO) | [![NLP_MULTI_CLASIFICACION](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=NLP_MULTI_CLASIFICACION&theme=dark)](https://github.com/LLAES07/NLP_MULTI_CLASIFICACION) | [![Forecasting-SARIMA](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Forecasting-SARIMA&theme=dark)](https://github.com/LLAES07/Forecasting-SARIMA) |
+| [![Powerbi_dashboard](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Powerbi_dashboard&theme=dark)](https://github.com/LLAES07/Powerbi_dashboard) | [![ann_clasfi](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=ann_clasfi&theme=dark)](https://github.com/LLAES07/ann_clasfi) | [![house_data_prediction](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=house_data_prediction&theme=dark)](https://github.com/LLAES07/house_data_prediction) |
+| [![Tableau_visual](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Tableau_visual&theme=dark)](https://github.com/LLAES07/Tableau_visual) | | [![Segmentacion_clientes](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Segmentacion_clientes&theme=dark)](https://github.com/LLAES07/Segmentacion_clientes) |
+| [![Coffee_sales_Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Coffee_sales_Project&theme=dark)](https://github.com/LLAES07/Coffee_sales_Project) | | |
 
 ---
 
