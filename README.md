@@ -46,12 +46,12 @@ I am a passionate <strong>Geologist</strong> turned <strong>Data Scientist</stro
 
 ### Proyectos
 
-| Visualizaciones / SQL | Clasificación | Regresión / Clustering |
+| Visualizaciones / SQL | Clasificación | Regresión / Clustering / Forecasting|
 |-----------------------|---------------|-----------|
 | [![SQL_DESAFIO](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=SQL_DESAFIO&theme=dark)](https://github.com/LLAES07/SQL_DESAFIO) | [![NLP_MULTI_CLASIFICACION](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=NLP_MULTI_CLASIFICACION&theme=dark)](https://github.com/LLAES07/NLP_MULTI_CLASIFICACION) | [![Forecasting-SARIMA](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Forecasting-SARIMA&theme=dark)](https://github.com/LLAES07/Forecasting-SARIMA) |
 | [![Powerbi_dashboard](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Powerbi_dashboard&theme=dark)](https://github.com/LLAES07/Powerbi_dashboard) | [![ann_clasfi](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=ann_clasfi&theme=dark)](https://github.com/LLAES07/ann_clasfi) | [![house_data_prediction](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=house_data_prediction&theme=dark)](https://github.com/LLAES07/house_data_prediction) |
 | [![Tableau_visual](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Tableau_visual&theme=dark)](https://github.com/LLAES07/Tableau_visual) | | [![Segmentacion_clientes](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Segmentacion_clientes&theme=dark)](https://github.com/LLAES07/Segmentacion_clientes) |
-| [![Coffee_sales_Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Coffee_sales_Project&theme=dark)](https://github.com/LLAES07/Coffee_sales_Project) | | |
+| [![Coffee_sales_Project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Coffee_sales_Project&theme=dark)](https://github.com/LLAES07/Coffee_sales_Project) | | [![Prediccion_electricidad](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLAES07&repo=Prediccion_electricidad&theme=dark)](https://github.com/LLAES07/Prediccion_electricidad)|
 
 ---
 
